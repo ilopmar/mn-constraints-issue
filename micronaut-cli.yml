@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: constraints.npe
+---
+testFramework: spock
+sourceLanguage: java
